@@ -35,6 +35,7 @@ s.dependency 'ReactiveCocoa', '~> 2.5'
 s.dependency 'SDWebImage', '~> 3.8.1'
 s.dependency 'UIColor-HexString', '~> 1.1.0'
 s.dependency 'RegExCategories', '~> 1.0'
+s.dependency 'Realm'
 
 # 8
 s.source_files = "PublisherApp/Source/*"
